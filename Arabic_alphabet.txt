@@ -1,0 +1,1 @@
+<li><?php echo __Line__;?>  :  qwe :  qwer<input type='button' name='rewrite' value='rewrite' onclick='rewriteComment()'></li>
