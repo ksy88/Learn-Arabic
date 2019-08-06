@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+KR&display=swap');
+
+
+#grid {
+	display:grid;
+	grid-template-columns: 200px 1fr;
+}
+
+#main_title {
+	border:3px solid gray;
+}
+
+#side_menu {
+
+	border:3px solid gray;
+	padding-right:10px;
+
+}
+
+#maintext {
+	margin-left:30px;
+}
+
+#text {
+	
+}
+#Comment_Form {
+	position: relative;
+}
+
+#grid2 {
+	display: grid;
+	grid-template-columns: 820px auto;
+}
+
+#grid3 {
+	display: grid;
+	grid-template-columns: 100px 100px;
+}
+
+#User_Name {
+	
+}
+
+#Comment_txt {
+	width:800px;
+}
+
+#textarea_area {
+	width:810px;
+}
+
+#Submit_Button {
+	backgroud-color:red;
+	
+}
+
+#submit_button_area {
+	height: 30px;
+}
+textarea { 
+	width:680px;
+	height:auto;
+	resize: none;
+}
+body {
+	font-family: 'Noto Serif KR', serif;
+}
+
+h1 {
+	text-align: center;
+}
+a {
+	text-decoration: none;
+}
+
+img {
+	margin:20px;
+	min-width: 370px;
+}
